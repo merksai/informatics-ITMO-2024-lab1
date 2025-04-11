@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to ITMO University $@"
+echo "Welcome to ITMO University $*"
